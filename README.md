@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Spring Framework, Nodejs, Go**
 
