@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 
-- 🌱 I’m currently learning **Spring Framework, iOS Development**
+- 🌱 I’m currently learning **Spring Framework, Nodejs, Microservices**
 
 - 📫 How to reach me **durmazhakan@icloud.com**
 
